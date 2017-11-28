@@ -1,0 +1,6 @@
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\bin\Release\Lab1.exe.config
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\bin\Release\Lab1.exe
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\bin\Release\Lab1.pdb
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\obj\Release\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\obj\Release\Lab1.exe
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\obj\Release\Lab1.pdb

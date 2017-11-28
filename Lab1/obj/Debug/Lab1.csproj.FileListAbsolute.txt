@@ -1,0 +1,21 @@
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab-1-for-all\Lab-1-bencmark\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab-1-for-all\Lab-1-bencmark\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\bin\Debug\Lab1.exe.config
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\bin\Debug\Lab1.exe
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\bin\Debug\Lab1.pdb
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\obj\Debug\Lab1.exe
+E:\ЧНУ\4 курс\Платформи корпоративних інформаційних систем\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\obj\Debug\Lab1.exe
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\bin\Debug\Lab1.exe
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Owner\Downloads\Telegram Desktop\2_5242579880570257641\Lab1\obj\Debug\Lab1.pdb
+D:\dotNET\Lab1\bin\Debug\Lab1.exe.config
+D:\dotNET\Lab1\bin\Debug\Lab1.exe
+D:\dotNET\Lab1\bin\Debug\Lab1.pdb
+D:\dotNET\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\dotNET\Lab1\obj\Debug\Lab1.exe
+D:\dotNET\Lab1\obj\Debug\Lab1.pdb
