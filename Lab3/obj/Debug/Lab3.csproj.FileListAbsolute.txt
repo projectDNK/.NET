@@ -1,0 +1,7 @@
+C:\Users\Kola\source\repos\labe3D\labe3D\bin\Debug\labe3D.exe.config
+C:\Users\Kola\source\repos\labe3D\labe3D\bin\Debug\labe3D.exe
+C:\Users\Kola\source\repos\labe3D\labe3D\bin\Debug\labe3D.pdb
+C:\Users\Kola\source\repos\labe3D\labe3D\obj\Debug\labe3D.csprojResolveAssemblyReference.cache
+C:\Users\Kola\source\repos\labe3D\labe3D\obj\Debug\labe3D.csproj.CoreCompileInputs.cache
+C:\Users\Kola\source\repos\labe3D\labe3D\obj\Debug\labe3D.exe
+C:\Users\Kola\source\repos\labe3D\labe3D\obj\Debug\labe3D.pdb
