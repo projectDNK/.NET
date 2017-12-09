@@ -1,0 +1,7 @@
+C:\Users\Kola\source\repos\Lab4K\Lab4K\obj\Debug\Lab4K.csprojResolveAssemblyReference.cache
+C:\Users\Kola\source\repos\Lab4K\Lab4K\obj\Debug\Lab4K.csproj.CoreCompileInputs.cache
+C:\Users\Kola\source\repos\Lab4K\Lab4K\bin\Debug\Lab4K.exe.config
+C:\Users\Kola\source\repos\Lab4K\Lab4K\bin\Debug\Lab4K.exe
+C:\Users\Kola\source\repos\Lab4K\Lab4K\bin\Debug\Lab4K.pdb
+C:\Users\Kola\source\repos\Lab4K\Lab4K\obj\Debug\Lab4K.exe
+C:\Users\Kola\source\repos\Lab4K\Lab4K\obj\Debug\Lab4K.pdb
