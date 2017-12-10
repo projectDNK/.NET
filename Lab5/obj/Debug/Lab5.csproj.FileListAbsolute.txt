@@ -1,0 +1,7 @@
+C:\Users\Kola\source\repos\Lab5K\Lab5K\bin\Debug\Lab5K.exe.config
+C:\Users\Kola\source\repos\Lab5K\Lab5K\bin\Debug\Lab5K.exe
+C:\Users\Kola\source\repos\Lab5K\Lab5K\bin\Debug\Lab5K.pdb
+C:\Users\Kola\source\repos\Lab5K\Lab5K\obj\Debug\Lab5K.csprojResolveAssemblyReference.cache
+C:\Users\Kola\source\repos\Lab5K\Lab5K\obj\Debug\Lab5K.csproj.CoreCompileInputs.cache
+C:\Users\Kola\source\repos\Lab5K\Lab5K\obj\Debug\Lab5K.exe
+C:\Users\Kola\source\repos\Lab5K\Lab5K\obj\Debug\Lab5K.pdb
